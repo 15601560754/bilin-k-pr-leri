@@ -1,1 +1,1 @@
-# Bilinç Köprüleri Kütüphanesi burası soruların cevapları yendiği yerdir.
+# Bilinç Köprüleri Kütüphanesi. Burası soruların cevapları yendiği yerdir.
